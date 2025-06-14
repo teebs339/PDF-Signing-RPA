@@ -2,6 +2,7 @@
   <x:Members>
     <x:Property Name="Signature_Email" Type="InArgument(snm:MailMessage)" />
     <x:Property Name="PDF_Email" Type="InArgument(snm:MailMessage)" />
+    <x:Property Name="OutputPDF_Path" Type="OutArgument(x:String)" />
   </x:Members>
   <VisualBasic.Settings>
     <x:Null />
@@ -98,7 +99,6 @@
       <Variable x:TypeArguments="x:String" Name="CodePath" />
       <Variable x:TypeArguments="x:String" Name="ProjectPath" />
       <Variable x:TypeArguments="x:String" Name="InputPDF_Path" />
-      <Variable x:TypeArguments="x:String" Name="OutputPDF_Path" />
       <Variable x:TypeArguments="x:String" Name="SignatureFile_Path" />
       <Variable x:TypeArguments="x:String" Name="SignatureEmailDate" />
       <Variable x:TypeArguments="x:String" Name="NowEmailDate" />
