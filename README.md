@@ -19,7 +19,7 @@ PDF-Signing-RPA is an automation project built with UiPath to digitally sign PDF
 
 ## Workflow view
 
-![Workflow Screenshot](public/workflow.png)
+<img src="public/workflow.png" alt="Workflow Screenshot" width="576" height="385">
 
 ## Setup
 
