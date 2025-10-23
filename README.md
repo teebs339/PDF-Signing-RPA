@@ -16,10 +16,7 @@ PDF-Signing-RPA is an automation project built with UiPath to digitally sign PDF
 
 - UiPath Studio
 - Python (for signature handling)
-
-## Workflow view
-
-![Workflow Screenshot](public/workflow.png)
+- PDF processing
 
 ## Setup
 
