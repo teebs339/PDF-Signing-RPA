@@ -1,5 +1,4 @@
 # PDF-Signing-RPA
-
  UiPath RPA to sign PDF invoices with signature PNG
 
 PDF-Signing-RPA is an automation project built with UiPath to digitally sign PDF invoices using a PNG signature image. It streamlines the process of getting unread invoice & signature emails from Outlook Desktop (Classic), applying signatures to multiple invoices, saving time and reducing manual effort.
@@ -15,8 +14,12 @@ PDF-Signing-RPA is an automation project built with UiPath to digitally sign PDF
 ## Technologies Used
 
 - UiPath Studio
-- Python (for signature handling)
-- PDF processing
+- Python
+- Outlook Desktop (Classic)
+
+## Workflow view
+
+![Workflow Screenshot](public/workflow.png)
 
 ## Setup
 
