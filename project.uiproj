@@ -1,0 +1,6 @@
+{
+  "Name": "Packing Slip",
+  "ProjectType": "Process",
+  "Description": "Process Packing Slip emails, combines the invoice PDF with singature png and uploads to sharepoint",
+  "MainFile": "Main.xaml"
+}
