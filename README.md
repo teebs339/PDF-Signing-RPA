@@ -33,5 +33,5 @@ PDF-Signing-RPA is an automation project built with UiPath to digitally sign PDF
    - reportlab
    
 4. Make sure Outlook Desktop is signed in & open during the RPA run.
-5. Make sure Sharepoint is connected #Comment out the sharepoint sequence if not needed
+5. Make sure Sharepoint is connected (Comment out/disable the sharepoint sequence if not needed)
    
